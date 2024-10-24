@@ -1,0 +1,15 @@
+/home/thematrixbunny/library-exercise/LibraryManagerExercise/bin/Debug/net8.0/LibraryManagerExercise
+/home/thematrixbunny/library-exercise/LibraryManagerExercise/bin/Debug/net8.0/LibraryManagerExercise.deps.json
+/home/thematrixbunny/library-exercise/LibraryManagerExercise/bin/Debug/net8.0/LibraryManagerExercise.runtimeconfig.json
+/home/thematrixbunny/library-exercise/LibraryManagerExercise/bin/Debug/net8.0/LibraryManagerExercise.dll
+/home/thematrixbunny/library-exercise/LibraryManagerExercise/bin/Debug/net8.0/LibraryManagerExercise.pdb
+/home/thematrixbunny/library-exercise/LibraryManagerExercise/obj/Debug/net8.0/LibraryManagerExercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/thematrixbunny/library-exercise/LibraryManagerExercise/obj/Debug/net8.0/LibraryManagerExercise.AssemblyInfoInputs.cache
+/home/thematrixbunny/library-exercise/LibraryManagerExercise/obj/Debug/net8.0/LibraryManagerExercise.AssemblyInfo.cs
+/home/thematrixbunny/library-exercise/LibraryManagerExercise/obj/Debug/net8.0/LibraryManagerExercise.csproj.CoreCompileInputs.cache
+/home/thematrixbunny/library-exercise/LibraryManagerExercise/obj/Debug/net8.0/LibraryManagerExercise.sourcelink.json
+/home/thematrixbunny/library-exercise/LibraryManagerExercise/obj/Debug/net8.0/LibraryManagerExercise.dll
+/home/thematrixbunny/library-exercise/LibraryManagerExercise/obj/Debug/net8.0/refint/LibraryManagerExercise.dll
+/home/thematrixbunny/library-exercise/LibraryManagerExercise/obj/Debug/net8.0/LibraryManagerExercise.pdb
+/home/thematrixbunny/library-exercise/LibraryManagerExercise/obj/Debug/net8.0/LibraryManagerExercise.genruntimeconfig.cache
+/home/thematrixbunny/library-exercise/LibraryManagerExercise/obj/Debug/net8.0/ref/LibraryManagerExercise.dll
